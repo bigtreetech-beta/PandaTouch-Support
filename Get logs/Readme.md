@@ -5,9 +5,9 @@ https://github.com/x-tools-author/x-tools/releases
 <img src=/Images/connecttopc.png width="360"/>
 
 #### 3 change the parameters from the setting page
-**2.1** baud rate is 115200
-**2.2** Text format is ASCII
-**2.3** Terminal
+**3.1** baud rate is 115200
+**3.2** Text format is ASCII
+**3.3** Terminal
 
 <img src=/Images/com_tool.png width="360"/>
 
